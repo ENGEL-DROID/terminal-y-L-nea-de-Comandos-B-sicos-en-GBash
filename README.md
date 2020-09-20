@@ -48,7 +48,7 @@ cat   archivo.extensión  = muestra el contenido del archivo.
 
 grep   archivo.extensión  = muestra palabras dentro de ese archivo.
 
-'>'   nombre.extensión  = guarda el archivo con ese nombre y extensión.
+'>'   nombre.extensión  = (obviar comillas) guarda el archivo con ese nombre y extensión.
 
 comando | comando  = concatena comandos.
 
