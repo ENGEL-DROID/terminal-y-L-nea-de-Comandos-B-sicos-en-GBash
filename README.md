@@ -2,11 +2,17 @@
 Comandos básicos usados en la terminal de GBash (Linux) en windows
 
 Terminal y Línea de Comandos en Linux (GBash)
+
 pwd   = (position work directory) muestra la ruta exacta en la que me encuentro.
+
 ls   = (list) muestra todo el contenido que hay en la carpeta o directorio actual.
+
 ls   -l   = (list list) muestra todo el contenido de la carpeta actual ordenado en lista.
+
 ls   -lh   = (list list human) muestra todo el contenido de la carpeta actual ordenado en lista pero con formato de lectura para humano.
+
 cd   = (change directory) va directo al home.
+
 cd   directorio   = lleva al directorio especificado.
 cd  letra   +   tab   = muestra los achivos con esa letra.
 cd  ..   = retrocede al directorio anterior.
