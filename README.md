@@ -1,4 +1,5 @@
-# terminal-y-L-nea-de-Comandos-B-sicos-en-GBash
+# Terminal y Línea de Comandos Básicos en GBash
+
 Comandos básicos usados en la terminal de GBash (Linux) en windows
 
 Terminal y Línea de Comandos en Linux (GBash)
